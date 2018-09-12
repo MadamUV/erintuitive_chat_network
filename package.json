@@ -3,6 +3,7 @@
   "version": "0.0.0",
   "scripts": {
     "ng": "ng",
+    "install": "node expressApp.ts",
     "postinstall": "ng build",
     "start": "ng serve",
     "build": "ng build",
